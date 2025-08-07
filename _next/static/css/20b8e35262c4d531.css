@@ -1,0 +1,83 @@
+.protocol-wall-container a,
+.protocol-wall-container p {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.01rem;
+  -webkit-font-smoothing: antialiased;
+}
+.protocol-wall-container {
+  position: relative;
+  width: 100%;
+  height: 80svh;
+  overflow: hidden;
+  cursor: grab;
+}
+.protocol-wall-container .canvas {
+  position: absolute;
+  will-change: transform;
+}
+.protocol-wall-container .item {
+  position: absolute;
+  width: 140px;
+  height: 140px;
+  overflow: hidden;
+  background-color: #000;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  user-select: none;
+  transition: transform 0.3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.protocol-wall-container .item .corner-bl,
+.protocol-wall-container .item .corner-tr,
+.protocol-wall-container .item:after,
+.protocol-wall-container .item:before {
+  content: "";
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.protocol-wall-container .item:hover .corner-bl,
+.protocol-wall-container .item:hover .corner-tr,
+.protocol-wall-container .item:hover:after,
+.protocol-wall-container .item:hover:before {
+  border-color: #fff;
+}
+.protocol-wall-container .item:before {
+  top: 0;
+  left: 0;
+  border-right: none;
+  border-bottom: none;
+}
+.protocol-wall-container .item:after {
+  bottom: 0;
+  right: 0;
+  border-left: none;
+  border-top: none;
+}
+.protocol-wall-container .item .corner-tr {
+  top: 0;
+  right: 0;
+  border-left: none;
+  border-bottom: none;
+}
+.protocol-wall-container .item .corner-bl {
+  bottom: 0;
+  left: 0;
+  border-right: none;
+  border-top: none;
+}
+.protocol-wall-container .item:hover {
+  transform: scale(1.1);
+}
+.protocol-wall-container img {
+  width: 75%;
+  height: 75%;
+  object-fit: contain;
+  pointer-events: none;
+}
