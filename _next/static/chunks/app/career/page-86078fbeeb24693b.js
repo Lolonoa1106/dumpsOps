@@ -110,7 +110,7 @@
                 className: "flex flex-col p-5 md:p-10",
                 children: (0, r.jsx)("p", {
                   className: "text-3xl",
-                  children: "Life at DumpOps",
+                  children: "Life at NodeOps",
                 }),
               }),
               (0, r.jsx)(h.A, {}),
@@ -129,17 +129,17 @@
                       (0, r.jsx)("p", {
                         className: "text-primary/50 mt-3 max-w-3xl",
                         children:
-                          "At DumpOps, we're building a more open, inclusive, and robust Cloud. Join our diverse and dynamic team, whether in the office or by becoming part of our growing remote army. We are all aligned around a shared vision onboarding everyone into a decentralized Cloud future.",
+                          "At NodeOps, we're building a more open, inclusive, and robust Cloud. Join our diverse and dynamic team, whether in the office or by becoming part of our growing remote army. We are all aligned around a shared vision onboarding everyone into a decentralized Cloud future.",
                       }),
                       (0, r.jsx)("p", {
                         className: "text-primary/50 mt-3 max-w-3xl",
                         children:
-                          "At DumpOps, you'll be expected to take agency and ownership of your own projects to drive meaningful change. You'll have the opportunity to work alongside some of the most dedicated, creative, and open minds in the industry.",
+                          "At NodeOps, you'll be expected to take agency and ownership of your own projects to drive meaningful change. You'll have the opportunity to work alongside some of the most dedicated, creative, and open minds in the industry.",
                       }),
                       (0, r.jsx)("p", {
                         className: "text-primary/50 mt-3 max-w-3xl",
                         children:
-                          "Come and shape the intersection of AI and Cloud Compute here at DumpOps.",
+                          "Come and shape the intersection of AI and Cloud Compute here at NodeOps.",
                       }),
                     ],
                   }),
@@ -576,7 +576,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore DumpOps Ecosystem"),
+              "Landing Page Explore NodeOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =

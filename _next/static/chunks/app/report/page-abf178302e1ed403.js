@@ -237,14 +237,14 @@
             title: "Q2-2025 Report",
             url: "https://ik.imagekit.io/nodeops/Quarterly%20Reports/Q2%20Report.pdf?updatedAt=1752647803861",
             image: "/QuaterReport2.webp",
-            author: { name: "DumpOps", profilePicture: "/Logo-black.svg" },
+            author: { name: "NodeOps", profilePicture: "/Logo-black.svg" },
           },
           {
             id: 1,
             title: "Q1-2025 Report",
             url: "https://ik.imagekit.io/sidimgkit/Q1%20-%202025%20Report.pdf?updatedAt=1744625216788",
             image: "/QuaterReport1.webp",
-            author: { name: "DumpOps", profilePicture: "/Logo-black.svg" },
+            author: { name: "NodeOps", profilePicture: "/Logo-black.svg" },
           },
           {
             id: 2,
@@ -252,15 +252,15 @@
             url: "https://messari.io/report/expanding-to-generalized-compute-with-nodeops-network?utm_source=twitter&utm_medium=organic_social&utm_campaign=pulse&destination=protocol_services_research",
             image:
               "https://ik.imagekit.io/nodeops/Marketing%20Emails/Messari%20-%20News%20section.png?updatedAt=1740509245958",
-            author: { name: "DumpOps", profilePicture: "/Logo-black.svg" },
+            author: { name: "NodeOps", profilePicture: "/Logo-black.svg" },
           },
           {
             id: 3,
-            title: "DumpOps Comprehensive Overview",
+            title: "NodeOps Comprehensive Overview",
             url: "https://messari.io/report/nodeops-comprehensive-overview",
             image:
               "https://ik.imagekit.io/nodeops/Marketing%20Emails/Messari%20-%20NodeOps%20Comprehensive%20Overview.png?updatedAt=1744280707385",
-            author: { name: "DumpOps", profilePicture: "/Logo-black.svg" },
+            author: { name: "NodeOps", profilePicture: "/Logo-black.svg" },
           },
           {
             id: 4,
@@ -268,15 +268,15 @@
             url: "https://messari.io/report/nodeops-network-where-capital-meets-compute-in-a-verifiable-environment",
             image:
               "https://ik.imagekit.io/nodeops/Marketing%20Emails/Messari%20Where%20capital%20meets%20compute.png?updatedAt=1750339787037",
-            author: { name: "DumpOps", profilePicture: "/Logo-black.svg" },
+            author: { name: "NodeOps", profilePicture: "/Logo-black.svg" },
           },
           {
             id: 5,
-            title: "DumpOps Network: Rethinking DePIN Tokenomics",
+            title: "NodeOps Network: Rethinking DePIN Tokenomics",
             url: "https://messari.io/report/nodeops-network-rethinking-depin-tokenomics",
             image:
               "https://ik.imagekit.io/nodeops/New%20blog%2020.png?updatedAt=1751610113465",
-            author: { name: "DumpOps", profilePicture: "/Logo-black.svg" },
+            author: { name: "NodeOps", profilePicture: "/Logo-black.svg" },
           },
         ],
         u = () => {

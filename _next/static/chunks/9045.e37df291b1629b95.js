@@ -152,7 +152,7 @@
                     className: "gap-2",
                     children: [
                       (0, o.jsx)(l.A, {
-                        text: "Explore DumpOps Ecosystem",
+                        text: "Explore NodeOps Ecosystem",
                         animateOn: "hover",
                         speed: 70,
                         sequential: !0,

@@ -360,7 +360,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore DumpOps Ecosystem"),
+              "Landing Page Explore NodeOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =

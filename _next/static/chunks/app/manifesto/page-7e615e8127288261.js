@@ -17,7 +17,7 @@
           {
             title: "Agility",
             description:
-              "No static system can survive real-world shocks. DumpOps Network governance adapts on multiple timeframes, from emergency changes to long-term strategy, keeping the Network responsive and resilient.",
+              "No static system can survive real-world shocks. NodeOps Network governance adapts on multiple timeframes, from emergency changes to long-term strategy, keeping the Network responsive and resilient.",
           },
           {
             title: "Signal",
@@ -27,7 +27,7 @@
           {
             title: "Stewardship",
             description:
-              "Neither plutocracy nor mob rule will sustain infrastructure. DumpOps Network rewards contributors with voice and voting power, aligning long-term incentives to protect the Network's health and sustainability.",
+              "Neither plutocracy nor mob rule will sustain infrastructure. NodeOps Network rewards contributors with voice and voting power, aligning long-term incentives to protect the Network's health and sustainability.",
           },
           {
             title: "Coordination",
@@ -37,7 +37,7 @@
           {
             title: "Evolution",
             description:
-              "DumpOps Network governance improves continuously. Learning beats winning. Mistakes become data. Feedback refines the system. Resilience grows with every cycle.",
+              "NodeOps Network governance improves continuously. Learning beats winning. Mistakes become data. Feedback refines the system. Resilience grows with every cycle.",
           },
         ],
         o = () => (
@@ -226,7 +226,7 @@
               (0, r.jsx)("p", {
                 className: "md:text-2xl text-lg mt-6",
                 children:
-                  "DumpOps Network is building the governance backbone for the next era of Internet infrastructure.",
+                  "NodeOps Network is building the governance backbone for the next era of Internet infrastructure.",
               }),
             ],
           });
@@ -256,7 +256,7 @@
               (0, r.jsx)("p", {
                 className: "md:text-2xl text-lg mt-10",
                 children:
-                  "DumpOps Network is built to meet this challenge, proving that a well-coordinated Network can grow stronger under pressure rather than fragmenting.",
+                  "NodeOps Network is built to meet this challenge, proving that a well-coordinated Network can grow stronger under pressure rather than fragmenting.",
               }),
               (0, r.jsx)(i.A, {
                 className: "my-20",

@@ -308,7 +308,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore DumpOps Ecosystem"),
+              "Landing Page Explore NodeOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =
@@ -403,13 +403,13 @@
                   className:
                     "text-3xl sm:text-5xl 2xl:text-7xl font-bold text-center max-w-6xl md:pt-96 pt-64",
                   children:
-                    "DumpOps Network: The leading general purpose DePIN orchestration layer",
+                    "NodeOps Network: The leading general purpose DePIN orchestration layer",
                 }),
                 (0, r.jsx)("p", {
                   className:
                     "text-sm sm:text-lg text-primary/60 text-center mt-5 max-w-3xl",
                   children:
-                    "A chain-agnostic, DePIN orchestration layer for general-purpose Compute; secured by Autonomous Verifiable Services. The Network revolves around the $DUMP token fueling this growing product suite.",
+                    "A chain-agnostic, DePIN orchestration layer for general-purpose Compute; secured by Autonomous Verifiable Services. The Network revolves around the $NODE token fueling this growing product suite.",
                 }),
               ],
             }),
@@ -497,7 +497,7 @@
                   className: "flex flex-col p-5 md:p-10",
                   children: (0, r.jsx)("p", {
                     className: "text-3xl",
-                    children: "DumpOps Cloud Marketplace",
+                    children: "NodeOps Cloud Marketplace",
                   }),
                 }),
                 (0, r.jsx)(n.A, {}),
@@ -542,7 +542,7 @@
                                   className:
                                     "text-primary/50 mt-3 max-w-3xl text-xl md:h-20",
                                   children:
-                                    "DumpOps Cloud’s permissionless DePIN marketplace empowers you to access the Compute you need at prices you like for the use cases that matter",
+                                    "NodeOps Cloud’s permissionless DePIN marketplace empowers you to access the Compute you need at prices you like for the use cases that matter",
                                 }),
                                 (0, r.jsxs)("div", {
                                   className:
@@ -674,7 +674,7 @@
                                   className:
                                     "text-primary/50 mt-3 max-w-3xl text-xl md:h-20",
                                   children:
-                                    "Leverage your spare CPU and GPU to earn in the DumpOps Cloud Marketplace",
+                                    "Leverage your spare CPU and GPU to earn in the NodeOps Cloud Marketplace",
                                 }),
                                 (0, r.jsxs)("div", {
                                   className:
@@ -782,7 +782,7 @@
                   className: "flex flex-col p-5 md:p-10",
                   children: (0, r.jsx)("p", {
                     className: "text-3xl",
-                    children: "DumpOps Console",
+                    children: "NodeOps Console",
                   }),
                 }),
                 (0, r.jsx)(n.A, {}),
@@ -822,9 +822,9 @@
                           children: [
                             (0, r.jsx)("span", {
                               className: "text-primary",
-                              children: "DumpOps Console ",
+                              children: "NodeOps Console ",
                             }),
-                            "lets anyone access DumpOps’ DePIN Cloud Compute to run Node as a Service (NaaS) from a no-code dashboard serving a diverse blockchain ecosystem",
+                            "lets anyone access NodeOps’ DePIN Cloud Compute to run Node as a Service (NaaS) from a no-code dashboard serving a diverse blockchain ecosystem",
                           ],
                         }),
                         (0, r.jsx)("div", {
@@ -835,7 +835,7 @@
                             onClick: () =>
                               e(
                                 h.R.PRODUCT_PAGE_GET_STARTED_CTA +
-                                  "DumpOps Console"
+                                  "NodeOps Console"
                               ),
                             children: (0, r.jsxs)(c.$n, {
                               variant: "outline",
@@ -995,7 +995,7 @@
                         (0, r.jsx)("p", {
                           className: "text-primary/50 mt-1 max-w-3xl text-xl",
                           children:
-                            "Diversify and decentralize your Protocol by becoming part of the DumpOps Console ecosystem",
+                            "Diversify and decentralize your Protocol by becoming part of the NodeOps Console ecosystem",
                         }),
                         (0, r.jsx)("div", {
                           className: "flex items-center gap-5 mt-10 md:mt-24",
@@ -1730,7 +1730,7 @@
                           (0, r.jsx)("p", {
                             className: "text-primary/50 mt-1 max-w-3xl text-xl",
                             children:
-                              "DumpOps Stakedrop allows anyone to earn staking yield",
+                              "NodeOps Stakedrop allows anyone to earn staking yield",
                           }),
                           (0, r.jsxs)("div", {
                             className: "flex items-center gap-5 mt-10 md:mt-36",
@@ -1889,7 +1889,7 @@
                           (0, r.jsx)("p", {
                             className: "text-primary/50 mt-1 max-w-3xl text-xl",
                             children:
-                              "DumpOps Validator allows Web3 and blockchain Protocols to decentralize quickly and securely with our managed Node hosting service",
+                              "NodeOps Validator allows Web3 and blockchain Protocols to decentralize quickly and securely with our managed Node hosting service",
                           }),
                           (0, r.jsx)("div", {
                             className: "flex items-center gap-5 mt-10 md:mt-36",
@@ -2003,7 +2003,7 @@
               (0, r.jsx)("h2", {
                 className: "text-3xl text-center",
                 children:
-                  "DumpOps Network offers a full suite of products and services",
+                  "NodeOps Network offers a full suite of products and services",
               }),
               (0, r.jsx)(N, {}),
               (0, r.jsx)(g, {}),

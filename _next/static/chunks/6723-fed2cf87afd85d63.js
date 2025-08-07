@@ -346,7 +346,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore DumpOps Ecosystem"),
+              "Landing Page Explore NodeOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =
@@ -593,7 +593,7 @@
           d = c
             ? `https://nodeops.network/case-studies/${i}`
             : `https://nodeops.network/blog/${i}`,
-          m = `https://x.com/intent/tweet?text=${t} by @DumpOpsHQ 
+          m = `https://x.com/intent/tweet?text=${t} by @NodeOpsHQ 
 
  ${d}`;
         return (0, a.jsxs)("div", {
@@ -618,7 +618,7 @@
                             "relative w-10 h-10 border border-primary/20 flex items-center justify-center bg-primary/10",
                           children: [
                             (0, a.jsx)("img", {
-                              src: "/logo.png",
+                              src: "/logoIcon-white.svg",
                               alt: "blog",
                               className: "w-6 h-6 object-contain",
                             }),

@@ -422,7 +422,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore DumpOps Ecosystem"),
+              "Landing Page Explore NodeOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =
@@ -888,7 +888,7 @@
               children: [
                 (0, a.jsx)("p", {
                   className: "text-3xl",
-                  children: "What’s happening at DumpOps",
+                  children: "What’s happening at NodeOps",
                 }),
                 (0, a.jsx)(g(), {
                   href: "/newsroom",
@@ -1232,7 +1232,7 @@
         E = {
           1: [
             {
-              title: "DumpOps Console",
+              title: "NodeOps Console",
               desc: "Node-as-a-Service dashboard",
               image: "/usecases/everyone/1.svg",
               shouldShow: !0,
@@ -1264,7 +1264,7 @@
               link: "/products#agent-terminal",
             },
             {
-              title: "DumpOps Cloud Marketplace",
+              title: "NodeOps Cloud Marketplace",
               desc: "Permissionless DePIN verifiable Compute marketplace",
               image: "/usecases/developers/2.svg",
               shouldShow: !0,

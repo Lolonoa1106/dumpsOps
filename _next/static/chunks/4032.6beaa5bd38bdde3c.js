@@ -22,7 +22,7 @@
         g = n(84070);
       let x = [
           {
-            title: "DumpOps Cloud",
+            title: "NodeOps Cloud",
             description: "Permissionless DePIN verifiable Compute marketplace",
             riveAsset: "/rive/cloud.riv",
             getStartedLink: "https://cloud.nodeops.network",
@@ -30,7 +30,7 @@
               "https://docs.nodeops.network/Core-Services/orchestrated-cloud",
           },
           {
-            title: "DumpOps Console",
+            title: "NodeOps Console",
             description:
               "Node-as-a-Service (NaaS) one-click dashboard serving multiple blockchains",
             riveAsset: "/rive/node_console.riv",

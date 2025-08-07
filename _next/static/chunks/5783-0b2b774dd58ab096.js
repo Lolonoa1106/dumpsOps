@@ -583,7 +583,7 @@
                           children: [
                             (0, i.jsx)("div", {
                               className:
-                                "w-50 h-50 relative border border-white/20 text-white p-4 overflow-hidden",
+                                "w-80 h-80 relative border border-white/20 text-white p-4 overflow-hidden",
                               children: (0, i.jsx)(b, { tweetId: e }),
                             }),
                             r === m &&

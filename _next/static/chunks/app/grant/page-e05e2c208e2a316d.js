@@ -243,7 +243,7 @@
           {
             title: "What's the total grant amount for Wave 1?",
             content:
-              "The total grant pool for  Wave 1 is $3 Million, which will be allocated across the applicant group on a case-by-case basis in $DUMP tokens and DumpOps Infra Credits, based on project scope and milestones.",
+              "The total grant pool for  Wave 1 is $3 Million, which will be allocated across the applicant group on a case-by-case basis in $NODE tokens and NodeOps Infra Credits, based on project scope and milestones.",
           },
           {
             title: "How is the grant issued?",
@@ -253,12 +253,12 @@
           {
             title: "Who can apply?",
             content:
-              "Builders, developers, early-stage teams, solo developers, anyone with a strong use case on DumpOps infra.",
+              "Builders, developers, early-stage teams, solo developers, anyone with a strong use case on NodeOps infra.",
           },
           {
             title: "What infra access do I get?",
             content:
-              "You'll get credits to use in the Marketplace app and priority access to DumpOps Cloud, RPC, Validators, and Console tools.",
+              "You'll get credits to use in the Marketplace app and priority access to NodeOps Cloud, RPC, Validators, and Console tools.",
           },
           {
             title: "How long do I have to build?",
@@ -310,7 +310,7 @@
                 (0, s.jsx)("h1", {
                   className:
                     "text-4xl sm:text-6xl lg:text-8xl font-bold text-center max-w-6xl pt-64 md:pt-96",
-                  children: "Build On DumpOps",
+                  children: "Build On NodeOps",
                 }),
                 (0, s.jsx)("p", {
                   className:
@@ -320,7 +320,7 @@
                 (0, s.jsx)("p", {
                   className:
                     "sm:text-2xl text-center mt-5 max-w-5xl text-primary/50",
-                  children: "Powered by DumpOps Network",
+                  children: "Powered by NodeOps Network",
                 }),
                 (0, s.jsxs)("div", {
                   className:
@@ -396,7 +396,7 @@
                         className:
                           "text-primary/50 text-sm sm:text-lg mt-4 max-w-xl",
                         children:
-                          "Outline your project, team, and intended use of DumpOps Network’s infra. We’ll review and assign an advisor to help you kick off.",
+                          "Outline your project, team, and intended use of NodeOps Network’s infra. We’ll review and assign an advisor to help you kick off.",
                       }),
                       (0, s.jsxs)(j.$, {
                         className: "mt-16 gap-1",
@@ -407,7 +407,7 @@
                           );
                         },
                         children: [
-                          "Apply to Build On DumpOps",
+                          "Apply to Build On NodeOps",
                           (0, s.jsx)(w.Q, {
                             size: 20,
                             className: "text-primary/60",
@@ -536,7 +536,7 @@
           1: [
             {
               title: "The Template Library",
-              desc: "Design a suite of high-quality, plug-and-play templates that accelerate how teams build on DumpOps Network. These templates should simplify complex setups, promote best practices, and enable developers to launch faster with minimal configuration. Set the foundation others will rely on to build with confidence.",
+              desc: "Design a suite of high-quality, plug-and-play templates that accelerate how teams build on NodeOps Network. These templates should simplify complex setups, promote best practices, and enable developers to launch faster with minimal configuration. Set the foundation others will rely on to build with confidence.",
               img: "/grant/template/1.png",
               ctaText: "View Template ideas",
               ctaLink:
@@ -547,14 +547,14 @@
           2: [
             {
               title: "Autonomous agents toolkit",
-              desc: "Build modular deployment and control tools for AI agents using DumpOps Agent Terminal. Enable real-time feedback, task execution, or inter-agent collaboration. Think of it as an open-source framework for decentralized GPT-style agents that can interact with APIs, data, or each other.",
+              desc: "Build modular deployment and control tools for AI agents using NodeOps Agent Terminal. Enable real-time feedback, task execution, or inter-agent collaboration. Think of it as an open-source framework for decentralized GPT-style agents that can interact with APIs, data, or each other.",
               img: "/grant/agents/1.png",
               ctaText: "Learn more",
               ctaLink: "",
             },
             {
               title: "AI & ML model hosting",
-              desc: "Host decentralized Machine Learning workloads and inference models using DumpOps cloud. Whether you're fine-tuning LLMs or building AI-powered dApps, DumpOps Network provides the backend to run high-intensity Compute without centralized bottlenecks.",
+              desc: "Host decentralized Machine Learning workloads and inference models using NodeOps cloud. Whether you're fine-tuning LLMs or building AI-powered dApps, NodeOps Network provides the backend to run high-intensity Compute without centralized bottlenecks.",
               img: "/grant/agents/2.png",
               ctaText: "Learn more",
               ctaLink: "",
@@ -570,21 +570,21 @@
           3: [
             {
               title: "Build2Play: DePIN gaming toolkits",
-              desc: "Create game frameworks that use decentralized logic or serve in-game assets from DumpOps Network’s infrastructure. From matchmaking Nodes to tokenized scoreboards, bring DePIN and gameplay together.",
+              desc: "Create game frameworks that use decentralized logic or serve in-game assets from NodeOps Network’s infrastructure. From matchmaking Nodes to tokenized scoreboards, bring DePIN and gameplay together.",
               img: "/grant/gaming/1.png",
               ctaText: "Learn more",
               ctaLink: "",
             },
             {
               title: "All-in-one streaming layer",
-              desc: "Create a decentralized, full-featured streaming platform built on DumpOps Network. Combine live encoding, token-gated access, tipping, and community interaction into one seamless experience. Ideal for gaming, creator content, or AI-driven broadcasts — without relying on centralized infrastructure.",
+              desc: "Create a decentralized, full-featured streaming platform built on NodeOps Network. Combine live encoding, token-gated access, tipping, and community interaction into one seamless experience. Ideal for gaming, creator content, or AI-driven broadcasts — without relying on centralized infrastructure.",
               img: "/grant/gaming/2.png",
               ctaText: "Learn more",
               ctaLink: "",
             },
             {
               title: "Audio and video generators",
-              desc: "Build tools that let users create audio or video content using pre-built, customizable templates. Think of platforms where creators can generate music tracks, voiceovers, or short-form videos in just a few clicks. Your goal is to simplify content creation while giving users creative control through AI-powered templates hosted on DumpOps Network.",
+              desc: "Build tools that let users create audio or video content using pre-built, customizable templates. Think of platforms where creators can generate music tracks, voiceovers, or short-form videos in just a few clicks. Your goal is to simplify content creation while giving users creative control through AI-powered templates hosted on NodeOps Network.",
               img: "/grant/gaming/3.png",
               ctaText: "Learn more",
               ctaLink: "",
@@ -607,14 +607,14 @@
             },
             {
               title: "Agent Terminal deployment tool",
-              desc: "Wrap DumpOps Network’s Agent Terminal into an easy-to-use GUI. Add version control, memory settings, plugin integrations, and real-time logs for agents built on DumpOps Network.",
+              desc: "Wrap NodeOps Network’s Agent Terminal into an easy-to-use GUI. Add version control, memory settings, plugin integrations, and real-time logs for agents built on NodeOps Network.",
               img: "/grant/devtool/2.png",
               ctaText: "Learn more",
               ctaLink: "",
             },
             {
               title: "Chrome extensions and browser bots",
-              desc: "Build browser tools that serve on-chain users or DAOs. Think bots that auto-submit proposals, monitor wallets, or offer real-time interactions powered by DumpOps in the background.",
+              desc: "Build browser tools that serve on-chain users or DAOs. Think bots that auto-submit proposals, monitor wallets, or offer real-time interactions powered by NodeOps in the background.",
               img: "/grant/devtool/3.png",
               ctaText: "Learn more",
               ctaLink: "",
@@ -638,8 +638,8 @@
           ],
           6: [
             {
-              title: "DumpOps Cloud native tools",
-              desc: "Create usage visualizers, credit monitors, or orchestration UIs for teams using DumpOps Cloud. Consider how tools could simplify deployment, optimization, and tracking.",
+              title: "NodeOps Cloud native tools",
+              desc: "Create usage visualizers, credit monitors, or orchestration UIs for teams using NodeOps Cloud. Consider how tools could simplify deployment, optimization, and tracking.",
               img: "/grant/depin/1.png",
               ctaText: "Learn more",
               ctaLink: "",
@@ -660,7 +660,7 @@
             },
             {
               title: "Energy grid simulations and sustainability models",
-              desc: "Are you a builder in ReFi, IoT, or supply chain industries? Consider using DumpOps Network Compute credits to model real-world energy grids, simulate usage, or analyze ESG metrics. ",
+              desc: "Are you a builder in ReFi, IoT, or supply chain industries? Consider using NodeOps Network Compute credits to model real-world energy grids, simulate usage, or analyze ESG metrics. ",
               img: "/grant/depin/4.png",
               ctaText: "Learn more",
               ctaLink: "",
@@ -722,12 +722,12 @@
                             className:
                               "text-primary/50 text-sm sm:text-2xl mt-4 max-w-4xl",
                             children:
-                              "DumpOps is for builders who are done chasing hype and ready to ship products that work. Whether you're in AI, DePIN, or decentralized coordination, we want to support ideas with substance.",
+                              "NodeOps is for builders who are done chasing hype and ready to ship products that work. Whether you're in AI, DePIN, or decentralized coordination, we want to support ideas with substance.",
                           }),
                         ],
                       }),
                       (0, s.jsx)(D(), {
-                        href: "https://docs.nodeops.network/Get-Started/Consume-Compute/Set-Up-Infrastructure",
+                        href: "https://app.gitbook.com",
                         target: "_blank",
                         children: (0, s.jsxs)(y.$n, {
                           variant: "outline",
@@ -857,7 +857,7 @@
                     className:
                       "text-center text-sm sm:text-2xl text-primary/50 mt-5 max-w-4xl mx-auto",
                     children:
-                      "DumpOps Network is where real builders go from prototype to production — fast. Tap into decentralized, verifiable Compute and ship with confidence. From your first workload to global scale, DumpOps is your full-stack foundation to go live.",
+                      "NodeOps Network is where real builders go from prototype to production — fast. Tap into decentralized, verifiable Compute and ship with confidence. From your first workload to global scale, NodeOps is your full-stack foundation to go live.",
                   }),
                   (0, s.jsxs)("div", {
                     className:
@@ -888,7 +888,7 @@
                               }),
                               (0, s.jsx)("img", {
                                 src: "/grant/why1.png",
-                                alt: "DumpOps Network",
+                                alt: "NodeOps Network",
                                 className:
                                   "w-full md:h-full h-40 object-contain md:w-40 shrink-0  ",
                               }),
@@ -901,7 +901,7 @@
                             children: [
                               (0, s.jsx)("img", {
                                 src: "/grant/why2.png",
-                                alt: "DumpOps Network",
+                                alt: "NodeOps Network",
                                 className:
                                   "w-full md:h-full h-40 object-contain md:w-40 shrink-0",
                               }),
@@ -916,7 +916,7 @@
                                   (0, s.jsx)("p", {
                                     className: "text-primary/50 text-lg",
                                     children:
-                                      "Whether you're deploying AI models, real-time apps, or blockchain services, DumpOps delivers high-performance, decentralized resources that flex with your needs.",
+                                      "Whether you're deploying AI models, real-time apps, or blockchain services, NodeOps delivers high-performance, decentralized resources that flex with your needs.",
                                   }),
                                 ],
                               }),
@@ -933,7 +933,7 @@
                           children: [
                             (0, s.jsx)("img", {
                               src: "/grant/why3.png",
-                              alt: "DumpOps Network",
+                              alt: "NodeOps Network",
                               className: "w-full md:h-80 h-60 shrink-0",
                             }),
                             (0, s.jsxs)("div", {
@@ -966,7 +966,7 @@
                         children: [
                           (0, s.jsx)("img", {
                             src: "/grant/why4.png",
-                            alt: "DumpOps Network",
+                            alt: "NodeOps Network",
                             className: "w-full h-full object-contain",
                           }),
                           (0, s.jsxs)("div", {
@@ -980,7 +980,7 @@
                               (0, s.jsx)("p", {
                                 className: "text-primary/50 text-lg",
                                 children:
-                                  "Receive flexible support in $DUMP tokens and infrastructure credits, tied to your development milestones — not arbitrary deadlines.",
+                                  "Receive flexible support in $NODE tokens and infrastructure credits, tied to your development milestones — not arbitrary deadlines.",
                               }),
                             ],
                           }),
@@ -993,7 +993,7 @@
                         children: [
                           (0, s.jsx)("img", {
                             src: "/grant/why5.png",
-                            alt: "DumpOps Network",
+                            alt: "NodeOps Network",
                             className: "w-full h-full object-contain",
                           }),
                           (0, s.jsxs)("div", {
@@ -1007,7 +1007,7 @@
                               (0, s.jsx)("p", {
                                 className: "text-primary/50 text-lg",
                                 children:
-                                  "Work with the DumpOps team to shape your go-to-market, sharpen your messaging, and amplify your launch to the right ecosystems.",
+                                  "Work with the NodeOps team to shape your go-to-market, sharpen your messaging, and amplify your launch to the right ecosystems.",
                               }),
                             ],
                           }),
@@ -1022,7 +1022,7 @@
         R = [
           {
             title:
-              "$3M grant pool distributed in $DUMP + infrastructure credits",
+              "$3M grant pool distributed in $NODE + infrastructure credits",
             icon: "/products/icons/dollar.svg",
             extraCls:
               "col-span-2  border-t border-primary/10 border-b border-primary/10",
@@ -1067,7 +1067,7 @@
                     className:
                       "text-center text-sm sm:text-2xl text-primary/50 mt-3 sm:mt-5 max-w-4xl mx-auto",
                     children:
-                      "The Build on DumpOps Grant Program is a milestone-based funding initiative designed for developers building real products on the DumpOps Network.",
+                      "The Build on NodeOps Grant Program is a milestone-based funding initiative designed for developers building real products on the NodeOps Network.",
                   }),
                 ],
               }),

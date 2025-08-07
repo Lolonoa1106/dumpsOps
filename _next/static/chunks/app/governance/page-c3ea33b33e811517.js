@@ -151,7 +151,7 @@
                   className:
                     "text-sm sm:text-lg text-primary/60 text-center mt-5 max-w-5xl",
                   children:
-                    "DumpOps Governance empowers token holders to propose, vote, and execute decisions that drive real Network evolution. Built on accountability, not abstraction.",
+                    "NodeOps Governance empowers token holders to propose, vote, and execute decisions that drive real Network evolution. Built on accountability, not abstraction.",
                 }),
                 (0, t.jsxs)("div", {
                   className:
@@ -205,12 +205,12 @@
             icon: (0, t.jsx)(d.A, { size: 34, className: "text-green-500" }),
             extraClass:
               "md:col-span-4 col-span-1 border-b border-t border-primary/10",
-            title: "What is DumpOps governance?",
+            title: "What is NodeOps governance?",
             iconBorder: "border-green-500/10",
             border: "border-green-500",
             bgColor: "bg-green-500/5",
             description:
-              "DumpOps governance empowers token holders to actively shape the protocol’s evolution, from staking logic and emissions schedules to economic parameters. Anchored by the $DUMP token, the governance model rewards meaningful contribution and influence is earned, not bought.",
+              "NodeOps governance empowers token holders to actively shape the protocol’s evolution, from staking logic and emissions schedules to economic parameters. Anchored by the $NODE token, the governance model rewards meaningful contribution and influence is earned, not bought.",
           },
           {
             icon: (0, t.jsx)(x.g, { size: 34, className: "text-purple-500" }),
@@ -494,7 +494,7 @@
                 " Verify your identity with Privado",
                 (0, t.jsx)("br", {}),
                 (0, t.jsx)("span", { className: "font-bold", children: "3." }),
-                " Stake $DUMP",
+                " Stake $NODE",
                 (0, t.jsx)("br", {}),
                 (0, t.jsx)("span", { className: "font-bold", children: "4." }),
                 " Join your first vote or discussion",
@@ -533,7 +533,7 @@
             border: "border-accent",
             bgColor: "bg-accent/5",
             description:
-              "The DumpOps Forum is where coordination takes shape. From emissions planning to validator policy, every stakeholder has a seat at the table.",
+              "The NodeOps Forum is where coordination takes shape. From emissions planning to validator policy, every stakeholder has a seat at the table.",
           },
         ],
         k = () =>
@@ -627,7 +627,7 @@
           {
             title: "Governance deep dive",
             description:
-              "Get a detailed breakdown of how DumpOps governance works, from voting mechanics to proposal flow and staking logic. Everything you need to participate with confidence, all in one place.",
+              "Get a detailed breakdown of how NodeOps governance works, from voting mechanics to proposal flow and staking logic. Everything you need to participate with confidence, all in one place.",
             link: "https://docs.nodeops.network/Tokenomics/governance",
             ctaText: "View docs",
             isExternal: !0,

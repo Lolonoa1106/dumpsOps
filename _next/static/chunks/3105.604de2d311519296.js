@@ -120,7 +120,7 @@
                           children: (0, a.jsx)("div", {
                             className:
                               "flex space-x-2 lg:space-x-6 overflow-hidden",
-                            children: "DumpOps"
+                            children: "NodeOps"
                               .split(" ")
                               .map((e, t) =>
                                 (0, a.jsx)(
@@ -139,7 +139,7 @@
                               "data-desc": !0,
                               className: "text-center",
                               children:
-                                "DumpOps is the leading AI-powered DePIN Orchestration Layer",
+                                "NodeOps is the leading AI-powered DePIN Orchestration Layer",
                             }),
                             (0, a.jsx)("div", {
                               "data-desc2": !0,

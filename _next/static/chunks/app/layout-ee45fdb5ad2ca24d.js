@@ -185,8 +185,8 @@
                       "flex flex-col md:flex-row md:items-center md:justify-between md:gap-4 gap-10",
                     children: [
                       (0, r.jsx)(i.default, {
-                        src: "/logo.png",
-                        alt: "DumpOps",
+                        src: "/logoIcon-white.svg",
+                        alt: "NodeOps",
                         width: 80,
                         height: 80,
                       }),
@@ -269,7 +269,7 @@
                       (0, r.jsx)("p", {
                         className: "text-xs text-primary/50",
                         children:
-                          "\xa92025 DumpOps Network // All rights reserved",
+                          "\xa92025 NodeOps Network // All rights reserved",
                       }),
                       (0, r.jsxs)("div", {
                         className: "text-xs text-primary/50 flex gap-2",
@@ -308,7 +308,7 @@
                       (0, r.jsx)("p", {
                         className:
                           "md:text-[266px] text-[85px] font-bold text-center absolute md:-bottom-40 -bottom-12 left-1/2 -translate-x-1/2",
-                        children: "DumpOps",
+                        children: "NodeOps",
                       }),
                     ],
                   }),
@@ -354,7 +354,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore DumpOps Ecosystem"),
+              "Landing Page Explore NodeOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =
@@ -761,13 +761,13 @@
               label: "Launch App",
               subMenu: [
                 {
-                  label: "DumpOps Cloud",
+                  label: "NodeOps Cloud",
                   href: "https://cloud.nodeops.network",
                   isExternal: !0,
                   icon: "/products/icons/cloud.svg",
                 },
                 {
-                  label: "DumpOps Console",
+                  label: "NodeOps Console",
                   href: "https://console.nodeops.network",
                   isExternal: !0,
                   icon: "/products/icons/codesandbox.svg",
@@ -1035,7 +1035,7 @@
       let P = [
 
           { label: "Blog",href: "/blog", subMenu: [ ] },
-          { label: "Documentation",href: "https://docs.nodeops.network", subMenu: [ ] },
+          { label: "Documentation",href: "https://app.gitbook.com", subMenu: [ ] },
           { label: "About",href: "/about", subMenu: [ ] },
           { label: "Tokenomics",href: "/tokenomics", subMenu: [ ] },
           {
@@ -1043,14 +1043,14 @@
             subMenu: [
               {
                 label: "Twitter",
-                href: "https://x.com/DumpOpsHQ",
+                href: "https://x.com/DumpOpsETH20",
                 icon: "/icons/twitter.svg",
                 desc: "",
                 isExternal: !0,
               },
               {
                 label: "Telegram",
-                href: "https://t.me/nodeopsxyz",
+                href: "https://t.me/DumpOpsETH20",
                 icon: "/icons/telegram.svg",
                 desc: "",
                 isExternal: !0,
@@ -1086,34 +1086,34 @@
                         children: [
                           {
                             title: "Tokenomics",
-                            icon: "/logo.png",
+                            icon: "/logoIcon-white.svg",
                             ctaLabel: "Explore Now",
                             link: "/tokenomics",
                             isExternal: !1,
                           },
                           {
-                            title: "Stake your $DUMP",
+                            title: "Stake your $NODE",
                             icon: "/products/icons/handcoins.svg",
                             ctaLabel: "Explore Now",
                             link: "https://portal.nodeops.network/stake",
                             isExternal: !0,
                           },
                           {
-                            title: "Deploy UNO Dump",
-                            icon: "/logo.png",
+                            title: "Deploy UNO Node",
+                            icon: "/logoIcon-white.svg",
                             ctaLabel: "Explore Now",
                             link: "https://console.nodeops.network/deployNode/nodeops-mainnet-orchestrator",
                             isExternal: !0,
                           },
                           {
-                            title: "Claim your $DUMP",
+                            title: "Claim your $NODE",
                             icon: "/products/icons/dollar2.svg",
                             ctaLabel: "Claim Now",
                             link: "https://claims.nodeops.network",
                             isExternal: !0,
                           },
                           {
-                            title: "DumpOps Portal: Your DeFi hub",
+                            title: "NodeOps Portal: Your DeFi hub",
                             icon: "/Portal.png",
                             ctaLabel: "Explore Portal",
                             link: "https://portal.nodeops.network",
@@ -1173,10 +1173,10 @@
                             href: "/",
                             className: "text-2xl font-bold z-20",
                             children: (0, r.jsx)(o.default, {
-                              src: "/logo.png",
-                              alt: "Node",
-                              width: 50,
-                              height: 50,
+                              src: "/logo.svg",
+                              alt: "NodeOps",
+                              width: 200,
+                              height: 200,
                             }),
                           }),
                           (0, r.jsx)(d.P.div, {
@@ -1272,7 +1272,7 @@
                       (0, r.jsxs)("div", {
                         className: "text-primary/50 mt-5 text-lg",
                         children: [
-                          "Infrastructure alpha, real stats, new deployments straight from the DumpOps team. One email. Once a week.",
+                          "Infrastructure alpha, real stats, new deployments straight from the NodeOps team. One email. Once a week.",
                           " ",
                           (0, r.jsx)("span", {
                             className: "text-primary",

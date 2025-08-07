@@ -72,7 +72,7 @@
                   className:
                     "text-sm sm:text-xl text-primary/60 text-center mt-5 max-w-3xl pb-20",
                   children:
-                    "Welcome partners! Find all the DumpOps brand assets you need—icons, logos, fonts, and colors—to help you get started.",
+                    "Welcome partners! Find all the NodeOps brand assets you need—icons, logos, fonts, and colors—to help you get started.",
                 }),
               ],
             }),
@@ -999,7 +999,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore DumpOps Ecosystem"),
+              "Landing Page Explore NodeOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =
