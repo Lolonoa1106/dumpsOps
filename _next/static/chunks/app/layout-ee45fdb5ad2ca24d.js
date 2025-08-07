@@ -1035,7 +1035,7 @@
       let P = [
 
           { label: "Blog",href: "/blog", subMenu: [ ] },
-          { label: "Documentation",href: "https://app.gitbook.com", subMenu: [ ] },
+          { label: "Documentation",href: "https://dumpops.gitbook.io/dumpops-docs", subMenu: [ ] },
           { label: "About",href: "/about", subMenu: [ ] },
           { label: "Tokenomics",href: "/tokenomics", subMenu: [ ] },
           {

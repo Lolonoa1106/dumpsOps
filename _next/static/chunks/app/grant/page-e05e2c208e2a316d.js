@@ -727,7 +727,7 @@
                         ],
                       }),
                       (0, s.jsx)(D(), {
-                        href: "https://app.gitbook.com",
+                        href: "https://dumpops.gitbook.io/dumpops-docs",
                         target: "_blank",
                         children: (0, s.jsxs)(y.$n, {
                           variant: "outline",
