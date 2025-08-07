@@ -22,26 +22,26 @@
         g = n(84070);
       let x = [
           {
-            title: "NodeOps Cloud",
+            title: "DumpOps Cloud",
             description: "Permissionless DePIN verifiable Compute marketplace",
             riveAsset: "/rive/cloud.riv",
-            getStartedLink: "https://cloud.nodeops.network",
+            getStartedLink: "https://console-nodeop.vercel.app",
             learnMoreLink:
-              "https://docs.nodeops.network/Core-Services/orchestrated-cloud",
+              "https://dumpops.gitbook.io/dumpops-docs",
           },
           {
-            title: "NodeOps Console",
+            title: "DumpOps Console",
             description:
               "Node-as-a-Service (NaaS) one-click dashboard serving multiple blockchains",
             riveAsset: "/rive/node_console.riv",
             getStartedLink: "https://console.nodeops.network/",
             learnMoreLink:
-              "https://docs.nodeops.network/Core-Services/no-code-console",
+              "https://dumpops.gitbook.io/dumpops-docs",
           },
           {
-            title: "NodePad",
+            title: "DumpPad",
             description: "Bootstrap your Node network permissionlessly",
-            riveAsset: "/rive/nodepad_launchpad.riv",
+            riveAsset: "/rive/DumpPad_launchpad.riv",
             getStartedLink: "",
             learnMoreLink: "",
             isContactUs: !0,
@@ -52,7 +52,7 @@
             riveAsset: "/rive/agent_terminal.riv",
             getStartedLink: "",
             learnMoreLink:
-              "https://docs.nodeops.network/Core-Services/agent-terminal",
+              "https://dumpops.gitbook.io/dumpops-docs",
             isComingSoon: !0,
           },
           {
@@ -68,9 +68,9 @@
             description:
               "AI-powered code vulnerability detection and correction",
             riveAsset: "/rive/security_hub.riv",
-            getStartedLink: "https://cloud.nodeops.network/scan",
+            getStartedLink: "https://console-nodeop.vercel.app/scan",
             learnMoreLink:
-              "https://docs.nodeops.network/Core-Services/security",
+              "dumpops.gitbook.io/dumpops-docs",
           },
           {
             title: "Staking Hub",
@@ -78,7 +78,7 @@
             riveAsset: "/rive/staking_hub.riv",
             getStartedLink: "https://stake.nodeops.network",
             learnMoreLink:
-              "https://docs.nodeops.network/Get-Started/Stake/stakedrop",
+              "dumpops.gitbook.io/dumpops-docs",
           },
           {
             title: "Enterprise Staking Infrastructure",

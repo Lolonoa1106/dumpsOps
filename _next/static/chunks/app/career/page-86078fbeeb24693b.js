@@ -323,7 +323,7 @@
                               children: "404?",
                             }),
                             (0, r.jsx)("a", {
-                              href: "mailto:hiring@nodeops.xyz",
+                              href: "mailto:hiring@DumpOps.xyz",
                               onClick: () => {
                                 e(m.R.CAREER_PAGE_JOIN_TEAM);
                               },
@@ -344,12 +344,12 @@
                             "If no roles are open, but you believe we need you, you are welcome to pass your CV along to",
                             " ",
                             (0, r.jsx)("a", {
-                              href: "mailto:hiring@nodeops.xyz",
+                              href: "mailto:hiring@DumpOps.xyz",
                               className: "text-primary",
                               onClick: () => {
                                 e(m.R.CAREER_PAGE_JOIN_TEAM);
                               },
-                              children: "hiring@nodeops.xyz",
+                              children: "hiring@DumpOps.xyz",
                             }),
                             " ",
                             "with a letter of motivation.",

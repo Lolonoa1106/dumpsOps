@@ -185,8 +185,8 @@
                       "flex flex-col md:flex-row md:items-center md:justify-between md:gap-4 gap-10",
                     children: [
                       (0, r.jsx)(i.default, {
-                        src: "/logoIcon-white.svg",
-                        alt: "NodeOps",
+                        src: "logo.png",
+                        alt: "DumpOps",
                         width: 80,
                         height: 80,
                       }),
@@ -269,7 +269,7 @@
                       (0, r.jsx)("p", {
                         className: "text-xs text-primary/50",
                         children:
-                          "\xa92025 NodeOps Network // All rights reserved",
+                          "\xa92025 DumpOps Network // All rights reserved",
                       }),
                       (0, r.jsxs)("div", {
                         className: "text-xs text-primary/50 flex gap-2",
@@ -354,7 +354,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore NodeOps Ecosystem"),
+              "Landing Page Explore DumpOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =
@@ -761,13 +761,13 @@
               label: "Launch App",
               subMenu: [
                 {
-                  label: "NodeOps Cloud",
-                  href: "https://cloud.nodeops.network",
+                  label: "DumpOps Cloud",
+                  href: "https://console-nodeop.vercel.app",
                   isExternal: !0,
                   icon: "/products/icons/cloud.svg",
                 },
                 {
-                  label: "NodeOps Console",
+                  label: "DumpOps Console",
                   href: "https://console.nodeops.network",
                   isExternal: !0,
                   icon: "/products/icons/codesandbox.svg",
@@ -1086,7 +1086,7 @@
                         children: [
                           {
                             title: "Tokenomics",
-                            icon: "/logoIcon-white.svg",
+                            icon: "logo.png",
                             ctaLabel: "Explore Now",
                             link: "/tokenomics",
                             isExternal: !1,
@@ -1100,7 +1100,7 @@
                           },
                           {
                             title: "Deploy UNO Node",
-                            icon: "/logoIcon-white.svg",
+                            icon: "logo.png",
                             ctaLabel: "Explore Now",
                             link: "https://console.nodeops.network/deployNode/nodeops-mainnet-orchestrator",
                             isExternal: !0,
@@ -1113,7 +1113,7 @@
                             isExternal: !0,
                           },
                           {
-                            title: "NodeOps Portal: Your DeFi hub",
+                            title: "DumpOps Portal: Your DeFi hub",
                             icon: "/Portal.png",
                             ctaLabel: "Explore Portal",
                             link: "https://portal.nodeops.network",
@@ -1173,10 +1173,10 @@
                             href: "/",
                             className: "text-2xl font-bold z-20",
                             children: (0, r.jsx)(o.default, {
-                              src: "/logo.svg",
-                              alt: "NodeOps",
-                              width: 200,
-                              height: 200,
+                              src: "logo.png",
+                              alt: "DumpOps",
+                              width: 60,
+                              height: 60,
                             }),
                           }),
                           (0, r.jsx)(d.P.div, {

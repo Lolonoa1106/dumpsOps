@@ -422,7 +422,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore NodeOps Ecosystem"),
+              "Landing Page Explore DumpOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =
@@ -1232,18 +1232,16 @@
         E = {
           1: [
             {
-              title: "NodeOps Console",
+              title: "DumpOps Console",
               desc: "Node-as-a-Service dashboard",
               image: "/usecases/everyone/1.svg",
               shouldShow: !0,
-              link: "/products#nodeops-console",
             },
             {
               title: "Security Hub",
               desc: "AI-powered code vulnerability detection",
               image: "/usecases/everyone/2.svg",
               shouldShow: !0,
-              link: "/products#security-hub",
             },
             {
               title: "Staking Hub",
@@ -1251,7 +1249,6 @@
               image: "/usecases/everyone/4.svg",
               shouldShow: !0,
               isFullWidth: !0,
-              link: "/products#staking-hub",
             },
             { title: "", desc: "", image: "", shouldShow: !1 },
           ],
@@ -1261,14 +1258,12 @@
               desc: "Collaborative AI agent development sandbox",
               image: "/usecases/developers/1.svg",
               shouldShow: !0,
-              link: "/products#agent-terminal",
             },
             {
-              title: "NodeOps Cloud Marketplace",
+              title: "DumpOps Cloud Marketplace",
               desc: "Permissionless DePIN verifiable Compute marketplace",
               image: "/usecases/developers/2.svg",
               shouldShow: !0,
-              link: "/products#cloud-marketplace",
             },
             {
               title: "Infrastructure-as-a-Service",
@@ -1283,7 +1278,6 @@
               desc: "Institutional-grade RPC Node operations",
               image: "/usecases/developers/4.svg",
               shouldShow: !0,
-              link: "/products#rpc-services",
             },
           ],
           3: [
@@ -1309,7 +1303,6 @@
               desc: "Institutional-grade B2B Staking",
               image: "/usecases/enterprises/4.svg",
               shouldShow: !0,
-              link: "/products#staking-hub",
             },
           ],
           4: [

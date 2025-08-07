@@ -72,7 +72,7 @@
                   className:
                     "text-sm sm:text-xl text-primary/60 text-center mt-5 max-w-3xl pb-20",
                   children:
-                    "Welcome partners! Find all the NodeOps brand assets you need—icons, logos, fonts, and colors—to help you get started.",
+                    "Welcome partners! Find all the DumpOps brand assets you need—icons, logos, fonts, and colors—to help you get started.",
                 }),
               ],
             }),
@@ -446,8 +446,8 @@
                               (0, r.jsx)(S.default, {
                                 src: t.img,
                                 alt: t.name,
-                                width: 200,
-                                height: 200,
+                                width: 60,
+                                height: 60,
                                 className: "object-contain",
                               }),
                               (0, r.jsx)(G, {

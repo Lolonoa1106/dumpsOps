@@ -330,7 +330,7 @@
             (e.LANDING_PAGE_CONTACT_US = "Landing Page Contact Us CTA - "),
             (e.LANDING_PAGE_LEARN_MORE = "Landing Page Learn More CTA - "),
             (e.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM =
-              "Landing Page Explore NodeOps Ecosystem"),
+              "Landing Page Explore DumpOps Ecosystem"),
             (e.LANDING_PAGE_BROWSE_MORE_NEWSLETTER =
               "Landing Page Browse More Newsletter"),
             (e.LANDING_PAGE_NEWSLETTER_READ_MORE_CTA =
@@ -529,7 +529,7 @@
                   className:
                     "text-sm sm:text-lg text-primary/60 text-center mt-5 max-w-5xl",
                   children:
-                    "NodeOps is a pioneering platform providing AI-enabled, effective solutions for non-technical Node operators, Web3 and blockchain protocols, developers, and enterprises. Since 2023, NodeOps has demonstrated that it's possible to streamline the deployment, management, and orchestration of blockchain and general Compute Nodes, empowering a truly decentralized Compute ecosystem.",
+                    "NodDumpOpseOps is a pioneering platform providing AI-enabled, effective solutions for non-technical Node operators, Web3 and blockchain protocols, developers, and enterprises. Since 2023, NodeOps has demonstrated that it's possible to streamline the deployment, management, and orchestration of blockchain and general Compute Nodes, empowering a truly decentralized Compute ecosystem.",
                 }),
               ],
             }),
@@ -559,7 +559,7 @@
                 className:
                   "text-primary/50 md:w-2/3 w-full md:text-5xl text-4xl leading-tight",
                 children: [
-                  "At NodeOps, our mission is to enhance the builder experience so that users and developers remain",
+                  "At DumpOps, our mission is to enhance the builder experience so that users and developers remain",
                   " ",
                   (0, s.jsx)("span", {
                     className: "text-primary",
@@ -1277,8 +1277,8 @@
                           children: (0, s.jsx)(o.default, {
                             src: e.image,
                             alt: e.name,
-                            width: 200,
-                            height: 200,
+                            width: 60,
+                            height: 60,
                             className: "h-full w-full object-contain",
                           }),
                         }),
@@ -1437,7 +1437,7 @@
                         (0, s.jsx)("p", {
                           className: "text-xl leading-tight mt-2",
                           children:
-                            "NodeOps Network's growing suite of products and services will attract users creating additional Compute demand",
+                            "DumpOps Network's growing suite of products and services will attract users creating additional Compute demand",
                         }),
                       ],
                     }),
@@ -1787,9 +1787,9 @@
                 title: "Accelerate",
                 subItems: [
                   "Wave-2 Points to $NODE claim program",
-                  "NodeOps Console V2 | Node Credits",
+                  "DumpOps Console V2 | Node Credits",
                   "Compute providers onboarding (supply bootstrapping)",
-                  "NodeOps Network Compute Nodes on the Marketplace",
+                  "DumpOps Network Compute Nodes on the Marketplace",
                   "NodeScore and SLA enforcement for Compute Providers | V1",
                   "Security Hub launch: AI-Powered vulnerability tracker",
                 ],

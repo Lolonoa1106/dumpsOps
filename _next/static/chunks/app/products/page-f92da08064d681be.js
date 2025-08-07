@@ -964,7 +964,7 @@
             { openFormModal: s } = (0, b.V)();
           return (0, r.jsx)(l.A, {
             className: "mb-20",
-            id: "nodepad-launchpad",
+            id: "DumpPad-launchpad",
             children: (0, r.jsxs)("div", {
               className: "border border-primary/20",
               children: [
@@ -972,7 +972,7 @@
                   className: "flex flex-col p-5 md:p-10",
                   children: (0, r.jsx)("p", {
                     className: "text-3xl",
-                    children: "NodePad",
+                    children: "DumpPad",
                   }),
                 }),
                 (0, r.jsx)(n.A, {}),
@@ -1004,7 +1004,7 @@
                               t.preventDefault(),
                                 e(
                                   h.R.PRODUCT_PAGE_JOIN_ECOSYSTEM_CTA +
-                                    "NodePad Launchpad"
+                                    "DumpPad Launchpad"
                                 ),
                                 s(
                                   "https://forms.zohopublic.in/nodeops1/form/Salesinbound/formperma/bzYGlNW442lSp3zGcKB8vnI5le4Q_iUWxI2byH7xU4s"
@@ -1497,7 +1497,7 @@
                           className: "flex items-center gap-5 mt-10",
                           children: [
                             (0, r.jsx)(p(), {
-                              href: "https://cloud.nodeops.network/scan",
+                              href: "https://console-nodeop.vercel.app/scan",
                               target: "_blank",
                               onClick: () =>
                                 e(

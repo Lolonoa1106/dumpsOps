@@ -593,7 +593,7 @@
           d = c
             ? `https://nodeops.network/case-studies/${i}`
             : `https://nodeops.network/blog/${i}`,
-          m = `https://x.com/intent/tweet?text=${t} by @NodeOpsHQ 
+          m = `https://x.com/intent/tweet?text=${t} by @DumpOpsHQ 
 
  ${d}`;
         return (0, a.jsxs)("div", {
@@ -618,7 +618,7 @@
                             "relative w-10 h-10 border border-primary/20 flex items-center justify-center bg-primary/10",
                           children: [
                             (0, a.jsx)("img", {
-                              src: "/logoIcon-white.svg",
+                              src: "logo.png",
                               alt: "blog",
                               className: "w-6 h-6 object-contain",
                             }),
