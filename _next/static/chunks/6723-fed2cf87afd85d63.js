@@ -196,25 +196,6 @@
                   className: "text-3xl",
                   children: ["Latest ", r ? "Case Studies" : "Blogs"],
                 }),
-                (0, a.jsx)(n(), {
-                  href: r ? "/case-studies" : "/blog",
-                  target: "_blank",
-                  children: (0, a.jsxs)(l.$, {
-                    variant: "outline",
-                    className: "gap-2",
-                    children: [
-                      (0, a.jsx)(o.A, {
-                        text: "Browse More",
-                        animateOn: "hover",
-                        speed: 70,
-                        sequential: !0,
-                        maxIterations: 10,
-                        useOriginalCharsOnly: !0,
-                      }),
-                      (0, a.jsx)(i.Q, { className: "w-4 h-4" }),
-                    ],
-                  }),
-                }),
               ],
             }),
             (0, a.jsx)("div", {

@@ -733,35 +733,6 @@
                     className: "text-3xl",
                     children: "Stats So Far",
                   }),
-                  (0, a.jsx)(g(), {
-                    href: "https://dune.com/nodeops/stats",
-                    target: "_blank",
-                    className: "w-full md:w-fit",
-                    onClick: () => o(y.R.EXPLORE_DUNE_DASHBOARD),
-                    children: (0, a.jsxs)(d.$n, {
-                      variant: "outline",
-                      className: "gap-2 md:w-fit w-full",
-                      children: [
-                        (0, a.jsx)(u.default, {
-                          src: "/duneLogo.png",
-                          alt: "Dune Analytics logo",
-                          width: 24,
-                          height: 24,
-                          style: { width: "24px", height: "24px" },
-                          priority: !0,
-                        }),
-                        (0, a.jsx)(m.A, {
-                          text: "Explore our Dune Dashboard",
-                          animateOn: "hover",
-                          speed: 70,
-                          sequential: !0,
-                          maxIterations: 10,
-                          useOriginalCharsOnly: !0,
-                        }),
-                        (0, a.jsx)(h.Q, { className: "w-4 h-4 -rotate-45" }),
-                      ],
-                    }),
-                  }),
                 ],
               }),
               (0, a.jsx)("div", {
@@ -890,26 +861,7 @@
                   className: "text-3xl",
                   children: "What’s happening at NodeOps",
                 }),
-                (0, a.jsx)(g(), {
-                  href: "/newsroom",
-                  target: "_blank",
-                  onClick: () => i(y.R.LANDING_PAGE_BROWSE_MORE_NEWSLETTER),
-                  children: (0, a.jsxs)(d.$n, {
-                    variant: "outline",
-                    className: "gap-2",
-                    children: [
-                      (0, a.jsx)(m.A, {
-                        text: "Browse More",
-                        animateOn: "hover",
-                        speed: 70,
-                        sequential: !0,
-                        maxIterations: 10,
-                        useOriginalCharsOnly: !0,
-                      }),
-                      (0, a.jsx)(h.Q, { className: "w-4 h-4" }),
-                    ],
-                  }),
-                }),
+          
               ],
             }),
             (0, a.jsx)("div", {
@@ -1359,31 +1311,12 @@
                     className: "text-3xl",
                     children: "Case Studies",
                   }),
-                  (0, a.jsx)(g(), {
-                    href: "/case-studies",
-                    target: "_blank",
-                    onClick: () => s(y.R.LANDING_PAGE_BROWSE_MORE_NEWSLETTER),
-                    children: (0, a.jsxs)(d.$n, {
-                      variant: "outline",
-                      className: "gap-2",
-                      children: [
-                        (0, a.jsx)(m.A, {
-                          text: "Browse More",
-                          animateOn: "hover",
-                          speed: 70,
-                          sequential: !0,
-                          maxIterations: 10,
-                          useOriginalCharsOnly: !0,
-                        }),
-                        (0, a.jsx)(h.Q, { className: "w-4 h-4" }),
-                      ],
-                    }),
-                  }),
+                
                 ],
               }),
               (0, a.jsx)("div", {
                 className:
-                  "grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-10",
+                  "grid grid-cols-1 md:grid-cols-2 gap-5 mt-10",
                 children: t.map((e) =>
                   (0, a.jsxs)(
                     d.Zp,

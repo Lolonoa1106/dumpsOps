@@ -409,7 +409,7 @@
                   className:
                     "text-sm sm:text-lg text-primary/60 text-center mt-5 max-w-3xl",
                   children:
-                    "A chain-agnostic, DePIN orchestration layer for general-purpose Compute; secured by Autonomous Verifiable Services. The Network revolves around the $NODE token fueling this growing product suite.",
+                    "A chain-agnostic, DePIN orchestration layer for general-purpose Compute; secured by Autonomous Verifiable Services. The Network revolves around the $DUMP token fueling this growing product suite.",
                 }),
               ],
             }),

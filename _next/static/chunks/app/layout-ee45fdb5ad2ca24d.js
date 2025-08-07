@@ -271,27 +271,6 @@
                         children:
                           "\xa92025 DumpOps Network // All rights reserved",
                       }),
-                      (0, r.jsxs)("div", {
-                        className: "text-xs text-primary/50 flex gap-2",
-                        children: [
-                          (0, r.jsx)(n(), {
-                            href: "https://nodeops-public-assets.s3.eu-central-1.amazonaws.com/terms.pdf",
-                            className: "underline",
-                            target: "_blank",
-                            children: "Terms",
-                          }),
-                          (0, r.jsx)("span", {
-                            className: "text-primary/50",
-                            children: "|",
-                          }),
-                          (0, r.jsx)(n(), {
-                            href: "https://nodeops-public-assets.s3.eu-central-1.amazonaws.com/privacy.pdf",
-                            className: "underline",
-                            target: "_blank",
-                            children: "Privacy",
-                          }),
-                        ],
-                      }),
                     ],
                   }),
                   (0, r.jsxs)("div", {
@@ -308,7 +287,7 @@
                       (0, r.jsx)("p", {
                         className:
                           "md:text-[266px] text-[85px] font-bold text-center absolute md:-bottom-40 -bottom-12 left-1/2 -translate-x-1/2",
-                        children: "NodeOps",
+                        children: "DumpOps",
                       }),
                     ],
                   }),
@@ -1092,21 +1071,21 @@
                             isExternal: !1,
                           },
                           {
-                            title: "Stake your $NODE",
+                            title: "Stake your $DUMP",
                             icon: "/products/icons/handcoins.svg",
                             ctaLabel: "Explore Now",
                             link: "https://portal.nodeops.network/stake",
                             isExternal: !0,
                           },
                           {
-                            title: "Deploy UNO Node",
+                            title: "Deploy UNO Dump",
                             icon: "logo.png",
                             ctaLabel: "Explore Now",
                             link: "https://console.nodeops.network/deployNode/nodeops-mainnet-orchestrator",
                             isExternal: !0,
                           },
                           {
-                            title: "Claim your $NODE",
+                            title: "Claim your $DUMP",
                             icon: "/products/icons/dollar2.svg",
                             ctaLabel: "Claim Now",
                             link: "https://claims.nodeops.network",

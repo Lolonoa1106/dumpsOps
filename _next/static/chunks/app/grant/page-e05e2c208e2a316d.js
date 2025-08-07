@@ -243,7 +243,7 @@
           {
             title: "What's the total grant amount for Wave 1?",
             content:
-              "The total grant pool for  Wave 1 is $3 Million, which will be allocated across the applicant group on a case-by-case basis in $NODE tokens and NodeOps Infra Credits, based on project scope and milestones.",
+              "The total grant pool for  Wave 1 is $3 Million, which will be allocated across the applicant group on a case-by-case basis in $DUMP tokens and NodeOps Infra Credits, based on project scope and milestones.",
           },
           {
             title: "How is the grant issued?",
@@ -980,7 +980,7 @@
                               (0, s.jsx)("p", {
                                 className: "text-primary/50 text-lg",
                                 children:
-                                  "Receive flexible support in $NODE tokens and infrastructure credits, tied to your development milestones — not arbitrary deadlines.",
+                                  "Receive flexible support in $DUMP tokens and infrastructure credits, tied to your development milestones — not arbitrary deadlines.",
                               }),
                             ],
                           }),
@@ -1022,7 +1022,7 @@
         R = [
           {
             title:
-              "$3M grant pool distributed in $NODE + infrastructure credits",
+              "$3M grant pool distributed in $DUMP + infrastructure credits",
             icon: "/products/icons/dollar.svg",
             extraCls:
               "col-span-2  border-t border-primary/10 border-b border-primary/10",

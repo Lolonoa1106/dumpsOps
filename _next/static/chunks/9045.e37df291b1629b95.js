@@ -144,25 +144,7 @@
                   className: "text-3xl",
                   children: "Supported Chains and Protocols",
                 }),
-                (0, o.jsx)(t(), {
-                  href: "/ecosystem",
-                  onClick: () => e(s.R.LANDING_PAGE_EXPLORE_NODEOPS_ECOSYSTEM),
-                  children: (0, o.jsxs)(r.$, {
-                    variant: "outline",
-                    className: "gap-2",
-                    children: [
-                      (0, o.jsx)(l.A, {
-                        text: "Explore DumpOps Ecosystem",
-                        animateOn: "hover",
-                        speed: 70,
-                        sequential: !0,
-                        maxIterations: 10,
-                        useOriginalCharsOnly: !0,
-                      }),
-                      (0, o.jsx)(i.Q, { className: "w-4 h-4 -rotate-45" }),
-                    ],
-                  }),
-                }),
+           
               ],
             }),
             (0, o.jsx)("div", {

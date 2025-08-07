@@ -210,7 +210,7 @@
             border: "border-green-500",
             bgColor: "bg-green-500/5",
             description:
-              "NodeOps governance empowers token holders to actively shape the protocol’s evolution, from staking logic and emissions schedules to economic parameters. Anchored by the $NODE token, the governance model rewards meaningful contribution and influence is earned, not bought.",
+              "NodeOps governance empowers token holders to actively shape the protocol’s evolution, from staking logic and emissions schedules to economic parameters. Anchored by the $DUMP token, the governance model rewards meaningful contribution and influence is earned, not bought.",
           },
           {
             icon: (0, t.jsx)(x.g, { size: 34, className: "text-purple-500" }),
@@ -494,7 +494,7 @@
                 " Verify your identity with Privado",
                 (0, t.jsx)("br", {}),
                 (0, t.jsx)("span", { className: "font-bold", children: "3." }),
-                " Stake $NODE",
+                " Stake $DUMP",
                 (0, t.jsx)("br", {}),
                 (0, t.jsx)("span", { className: "font-bold", children: "4." }),
                 " Join your first vote or discussion",

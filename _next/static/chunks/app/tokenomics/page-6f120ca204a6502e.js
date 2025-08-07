@@ -79,7 +79,7 @@
                     className:
                       "text-sm sm:text-lg text-primary/60 text-center mt-5 max-w-3xl",
                     children:
-                      "$NODE serves as the economic layer for NodeOps Network. The token is supported by Protocol growth, optimally managed through revenue-based mechanisms.",
+                      "$DUMP serves as the economic layer for NodeOps Network. The token is supported by Protocol growth, optimally managed through revenue-based mechanisms.",
                   }),
                   (0, s.jsx)(c(), {
                     href: "https://docs.nodeops.network/Tokenomics/node",
@@ -367,7 +367,7 @@
                         children: [
                           (0, s.jsx)("p", {
                             className: "text-sm text-primary/60",
-                            children: "$NODE revenue",
+                            children: "$DUMP revenue",
                           }),
                           (0, s.jsx)("p", {
                             className: "text-sm text-primary/60",
@@ -393,7 +393,7 @@
                                     }),
                                   ],
                                 })
-                              : `${b(100).toFixed(2)} $NODE`,
+                              : `${b(100).toFixed(2)} $DUMP`,
                           }),
                         ],
                       }),
@@ -497,7 +497,7 @@
                               className: "text-sm",
                               children: [
                                 b(e.percentage).toFixed(2),
-                                " $NODE",
+                                " $DUMP",
                                 (0, s.jsxs)("span", {
                                   className: "text-primary",
                                   children: [" (", e.percentage, "%)"],
@@ -1541,7 +1541,7 @@
                           (0, s.jsx)("p", {
                             className: "text-sm text-primary",
                             children:
-                              "The token release schedule outlining the timeline and conditions under which $NODE is gradually unlocked and distributed, ensuring controlled supply and preventing market shocks.",
+                              "The token release schedule outlining the timeline and conditions under which $DUMP is gradually unlocked and distributed, ensuring controlled supply and preventing market shocks.",
                           }),
                         ],
                       }),
@@ -1943,11 +1943,11 @@
                           children: [
                             (0, s.jsx)("p", {
                               className: "text-sm text-primary/60",
-                              children: "Your staked $NODE",
+                              children: "Your staked $DUMP",
                             }),
                             (0, s.jsxs)("span", {
                               className: "text-primary",
-                              children: [200 * e + 2e3, " $NODE"],
+                              children: [200 * e + 2e3, " $DUMP"],
                             }),
                           ],
                         }),
@@ -1986,7 +1986,7 @@
                             (0, s.jsx)("p", {
                               className: "text-sm text-primary",
                               children:
-                                "Compute providers power the network by bonding a minimum of 2,000 $NODE for registration and 200 $NODE per 2 CU, earning rewards for maintaining performance and network stability.",
+                                "Compute providers power the network by bonding a minimum of 2,000 $DUMP for registration and 200 $DUMP per 2 CU, earning rewards for maintaining performance and network stability.",
                             }),
                           ],
                         }),
@@ -2119,7 +2119,7 @@
                                       color: "#fff",
                                       fontWeight: "500",
                                     },
-                                    formatter: (e) => [`${e} $NODE`, "Rewards"],
+                                    formatter: (e) => [`${e} $DUMP`, "Rewards"],
                                     labelFormatter: (e) => e,
                                   }),
                                   (0, s.jsx)(N.G, {
@@ -2167,7 +2167,7 @@
                                 }),
                                 (0, s.jsxs)("p", {
                                   className: "text-sm",
-                                  children: [e.amount, " $NODE"],
+                                  children: [e.amount, " $DUMP"],
                                 }),
                               ],
                             },
@@ -2334,7 +2334,7 @@
                       }),
                       (0, s.jsx)("p", {
                         className: "text-sm text-primary/60 mt-4",
-                        children: "$NODE Token Price",
+                        children: "$DUMP Token Price",
                       }),
                       (0, s.jsx)(a.pd, {
                         wrapperClassName: "w-full mt-2",
@@ -2438,7 +2438,7 @@
                           (0, s.jsx)("p", {
                             className: "text-sm text-primary",
                             children:
-                              "The burn/mint ratio defines how much value must be burned to mint new $NODE tokens. A higher ratio means more tokens are burned for each new one created, making the system more deflationary. This helps regulate supply and align token emissions with real network usage. The ratio can be adjusted dynamically by governance to respond to changes in demand, staking participation, or Protocol revenue, ensuring sustainable growth over time.",
+                              "The burn/mint ratio defines how much value must be burned to mint new $DUMP tokens. A higher ratio means more tokens are burned for each new one created, making the system more deflationary. This helps regulate supply and align token emissions with real network usage. The ratio can be adjusted dynamically by governance to respond to changes in demand, staking participation, or Protocol revenue, ensuring sustainable growth over time.",
                           }),
                         ],
                       }),
@@ -2654,12 +2654,12 @@
             icon: (0, s.jsx)(F.k, { size: 28 }),
             title: "Dynamic burn & mint",
             description:
-              "As users pay, $NODE is burned; as revenue is earned, $NODE is minted",
+              "As users pay, $DUMP is burned; as revenue is earned, $DUMP is minted",
           },
           {
             icon: (0, s.jsx)(M.p, { size: 28 }),
             title: "Bonding-driven Compute onboarding",
-            description: "Bond $NODE to onboard machines",
+            description: "Bond $DUMP to onboard machines",
           },
           {
             icon: (0, s.jsx)(G.N, { size: 28 }),
@@ -2681,7 +2681,7 @@
                 children: [
                   "NodeOps Network delivers verifiable, reliable Compute through its AI-powered orchestration layer.",
                   (0, s.jsx)("br", {}),
-                  "At the core, $NODE coordinates the economic alignment between users, providers, and Protocol operations.",
+                  "At the core, $DUMP coordinates the economic alignment between users, providers, and Protocol operations.",
                 ],
               }),
               (0, s.jsx)("div", {
@@ -2725,7 +2725,7 @@
           },
           {
             icon: (0, s.jsx)(W.p, { size: 28 }),
-            title: "Max emissions capped at 186,529 $NODE/day",
+            title: "Max emissions capped at 186,529 $DUMP/day",
           },
           {
             icon: (0, s.jsx)(B.v, { size: 28 }),
@@ -2747,7 +2747,7 @@
                 className:
                   "text-lg text-primary/60 text-center mt-5 max-w-4xl mx-auto",
                 children:
-                  "NodeOps Network uses a dynamic mint-and-burn model that links $NODE emissions directly to on-chain revenue, aligning supply with real usage.",
+                  "NodeOps Network uses a dynamic mint-and-burn model that links $DUMP emissions directly to on-chain revenue, aligning supply with real usage.",
               }),
               (0, s.jsx)("div", {
                 className: "grid md:grid-cols-2 mt-8",
@@ -2882,7 +2882,7 @@
                 className:
                   "text-lg text-primary/60 text-center mt-5 max-w-3xl mx-auto",
                 children:
-                  "At genesis, $NODE supply is 678,833,730 tokens. Distribution and further emissions are designed to ensure fairness, long-term growth, and to align with Protocol activity.",
+                  "At genesis, $DUMP supply is 678,833,730 tokens. Distribution and further emissions are designed to ensure fairness, long-term growth, and to align with Protocol activity.",
               }),
               (0, s.jsxs)("div", {
                 className: "border border-primary/10 md:p-8 p-4 mt-8 relative",
@@ -2895,7 +2895,7 @@
                       " ",
                       (0, s.jsx)("span", {
                         className: "text-primary",
-                        children: " 678,833,730 $NODE",
+                        children: " 678,833,730 $DUMP",
                       }),
                     ],
                   }),
@@ -3321,7 +3321,7 @@
                 className:
                   "text-lg text-primary/60 text-center mt-5 max-w-3xl mx-auto",
                 children:
-                  "$NODE is not an inflationary reward token — it’s a real-time reflection of Protocol demand, with supply governed by revenue, usage, and verifiable network activity.",
+                  "$DUMP is not an inflationary reward token — it’s a real-time reflection of Protocol demand, with supply governed by revenue, usage, and verifiable network activity.",
               }),
               (0, s.jsxs)("div", {
                 className: "overflow-x-auto mt-8",
@@ -3375,7 +3375,7 @@
             children: [
               (0, s.jsx)("p", {
                 className: "text-3xl text-center",
-                children: "The $NODE demand loop",
+                children: "The $DUMP demand loop",
               }),
               (0, s.jsx)(p.default, {
                 src: "/demandLoop.webp",
@@ -3494,7 +3494,7 @@
                                 className: "font-semibold italic font-mono",
                                 children: "t",
                               }),
-                              " is $NODE Token price",
+                              " is $DUMP Token price",
                             ],
                           }),
                           (0, s.jsxs)("span", {

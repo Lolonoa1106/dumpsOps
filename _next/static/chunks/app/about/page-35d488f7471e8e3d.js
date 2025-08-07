@@ -1786,7 +1786,7 @@
               {
                 title: "Accelerate",
                 subItems: [
-                  "Wave-2 Points to $NODE claim program",
+                  "Wave-2 Points to $DUMP claim program",
                   "DumpOps Console V2 | Node Credits",
                   "Compute providers onboarding (supply bootstrapping)",
                   "DumpOps Network Compute Nodes on the Marketplace",
@@ -1804,7 +1804,7 @@
               {
                 title: "Innovate",
                 subItems: [
-                  "$NODE staking campaign",
+                  "$DUMP staking campaign",
                   "Staking Hub launch",
                   "UNO AI Watcher Nodes",
                   "Developer & grant initiatives via #BuildOnNodeOps campaign",
@@ -1821,8 +1821,8 @@
               {
                 title: "Business",
                 subItems: [
-                  "$NODE token launch and listings",
-                  "$NODE mint & burn Stage-1",
+                  "$DUMP token launch and listings",
+                  "$DUMP mint & burn Stage-1",
                   "Trusted Execution Environment (TEE)-powered key management system",
                   "New integrations with more product line launches",
                   "Strategic partnerships & ecosystem development",
@@ -1841,7 +1841,7 @@
                 subItems: [
                   "Enterprise support for AI-driven workloads and use cases",
                   "Product B2B integrations/distribution",
-                  "$NODE mint & burn Stage-2",
+                  "$DUMP mint & burn Stage-2",
                   "Ecosystem chapters across various demographics",
                 ],
               },
